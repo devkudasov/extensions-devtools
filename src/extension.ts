@@ -5,8 +5,7 @@ export function activate(context: vscode.ExtensionContext):void {
 	context.subscriptions.push(
 		vscode.languages.registerCompletionItemProvider(
 			{scheme: 'file', language: 'javascript'},
-			new ChromeProvider(),
-			'.'
+			new ChromeProvider()
 		)
 	);
 }
