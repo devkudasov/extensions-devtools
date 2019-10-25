@@ -3,6 +3,7 @@
 	"displayName": "Extensions devtools",
 	"description": "Devtools for more easy extentions development",
 	"version": "0.0.1",
+	"publisher": "devkudasov",
 	"engines": {
 		"vscode": "^1.39.0"
 	},
@@ -10,14 +11,11 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"onLanguage:javascript"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
-		"commands": [{
-			"command": "extension.helloWorld",
-			"title": "Hello World"
-		}]
+		
 	},
 	"scripts": {
 		"vscode:prepublish": "yarn run compile",
