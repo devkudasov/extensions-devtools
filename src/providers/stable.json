@@ -1,0 +1,288 @@
+[
+    {
+        "name": "accessibilityFeatures",
+        "type": 8
+    },
+    {
+        "name": "alarms",
+        "type": 8
+    },
+    {
+        "name": "bookmarks",
+        "type": 8
+    },
+    {
+        "name": "browserActions",
+        "type": 8
+    },
+    {
+        "name": "browsingData",
+        "type": 8
+    },
+    {
+        "name": "certificateProvider",
+        "type": 8
+    },
+    {
+        "name": "commands",
+        "type": 8
+    },
+    {
+        "name": "contentSettings",
+        "type": 8
+    },
+    {
+        "name": "contextMenus",
+        "type": 8
+    },
+    {
+        "name": "cookies",
+        "type": 8
+    },
+    {
+        "name": "alarms",
+        "type": 8
+    },
+    {
+        "name": "debugger",
+        "type": 8
+    },
+    {
+        "name": "declarativeContent",
+        "type": 8
+    },
+    {
+        "name": "desktopCapture",
+        "type": 8
+    },
+    {
+        "name": "devtools",
+        "type": 8,
+        "properties": [
+            {
+                "name": "inspectedWindow",
+                "type": 8
+            },
+            {
+                "name": "network",
+                "type": 8
+            },
+            {
+                "name": "panels",
+                "type": 8
+            }
+        ]
+    },
+    {
+        "name": "documentScan",
+        "type": 8
+    },
+    {
+        "name": "downloads",
+        "type": 8
+    },
+    {
+        "name": "enterprise",
+        "type": 8,
+        "properties": [
+            {
+                "name": "deviceAttributes",
+                "type": 8
+            },
+            {
+                "name": "hardwarePlatform",
+                "type": 8
+            },
+            {
+                "name": "platformKeys",
+                "type": 8
+            }
+        ]
+    },
+    {
+        "name": "events",
+        "type": 8
+    },
+    {
+        "name": "extension",
+        "type": 8
+    },
+    {
+        "name": "extensionTypes",
+        "type": 8
+    },
+    {
+        "name": "fileBrowserHandler",
+        "type": 8
+    },
+    {
+        "name": "fileSystemProvider",
+        "type": 8
+    },
+    {
+        "name": "fontSettings",
+        "type": 8
+    },
+    {
+        "name": "gsm",
+        "type": 8
+    },
+    {
+        "name": "history",
+        "type": 8
+    },
+    {
+        "name": "i18n",
+        "type": 8
+    },
+    {
+        "name": "identity",
+        "type": 8
+    },
+    {
+        "name": "idle",
+        "type": 8
+    },
+    {
+        "name": "input",
+        "type": 8,
+        "properties": [
+            {
+                "name": "ime",
+                "type": 8
+            }
+        ]
+    },
+    {
+        "name": "instanceID",
+        "type": 8
+    },
+    {
+        "name": "management",
+        "type": 8
+    },
+    {
+        "name": "networking",
+        "type": 8,
+        "properties": [
+            {
+                "name": "config",
+                "type": 8
+            }
+        ]
+    },
+    {
+        "name": "notifications",
+        "type": 8
+    },
+    {
+        "name": "omnibox",
+        "type": 8
+    },
+    {
+        "name": "pageActions",
+        "type": 8
+    },
+    {
+        "name": "pageCapture",
+        "type": 8
+    },
+    {
+        "name": "permissions",
+        "type": 8
+    },
+    {
+        "name": "platformKeys",
+        "type": 8
+    },
+    {
+        "name": "power",
+        "type": 8
+    },
+    {
+        "name": "printerProvider",
+        "type": 8
+    },
+    {
+        "name": "privacy",
+        "type": 8
+    },
+    {
+        "name": "proxy",
+        "type": 8
+    },
+    {
+        "name": "runtime",
+        "type": 8
+    },
+    {
+        "name": "sessions",
+        "type": 8
+    },
+    {
+        "name": "storage",
+        "type": 8
+    },
+    {
+        "name": "system",
+        "type": 8,
+        "properties": [
+            {
+                "name": "cpu",
+                "type": 8
+            },
+            {
+                "name": "memory",
+                "type": 8
+            },
+            {
+                "name": "storage",
+                "type": 8
+            }
+        ]
+    },
+    {
+        "name": "tabCapture",
+        "type": 8
+    },
+    {
+        "name": "tabs",
+        "type": 8
+    },
+    {
+        "name": "topSites",
+        "type": 8
+    },
+    {
+        "name": "tts",
+        "type": 8
+    },
+    {
+        "name": "ttsEngine",
+        "type": 8
+    },
+    {
+        "name": "types",
+        "type": 8
+    },
+    {
+        "name": "vpnProvider",
+        "type": 8
+    },
+    {
+        "name": "wallpaper",
+        "type": 8
+    },
+    {
+        "name": "webNavigator",
+        "type": 8
+    },
+    {
+        "name": "webRequest",
+        "type": 8
+    },
+    {
+        "name": "windows",
+        "type": 8
+    }
+]

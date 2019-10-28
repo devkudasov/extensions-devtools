@@ -1,0 +1,50 @@
+[
+    {
+        "name": "spokenFeedback",
+        "type": 8
+    },
+    {
+        "name": "largeCursor",
+        "type": 8
+    },
+    {
+        "name": "stickyKeys",
+        "type": 8
+    },
+    {
+        "name": "highContrast",
+        "type": 8
+    },
+    {
+        "name": "autoclick",
+        "type": 8
+    },
+    {
+        "name": "virtualKeyboard",
+        "type": 8
+    },
+    {
+        "name": "caretHighlight",
+        "type": 8
+    },
+    {
+        "name": "cursorHighlight",
+        "type": 8
+    },
+    {
+        "name": "focusHighlight",
+        "type": 8
+    },
+    {
+        "name": "selectToSpeak",
+        "type": 8
+    },
+    {
+        "name": "switchAccess",
+        "type": 8
+    },
+    {
+        "name": "animationPolicy",
+        "type": 8
+    }
+]
